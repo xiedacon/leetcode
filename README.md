@@ -8,3 +8,4 @@
 6. [ZigZag Conversion](./algorithms/6.ZigZag Conversion.md)
 7. [Reverse Integer](./algorithms/7.Reverse Integer.md)
 8. [String to Integer (atoi)](./algorithms/8.String to Integer.md)
+9. [Palindrome Number](./algorithms/9.Palindrome Number.md)
