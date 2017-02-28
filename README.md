@@ -24,3 +24,4 @@
 22. [Generate Parentheses](./algorithms/22.Generate Parentheses.md)
 23. [Merge k Sorted Lists](./algorithms/23.Merge k Sorted Lists.md)
 24. [Swap Nodes in Pairs](./algorithms/24.Swap Nodes in Pairs.md)
+25. [Reverse Nodes in k-Group](./algorithms/25.Reverse Nodes in k-Group.md)
