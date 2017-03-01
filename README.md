@@ -25,3 +25,7 @@
 23. [Merge k Sorted Lists](./algorithms/23.Merge k Sorted Lists.md)
 24. [Swap Nodes in Pairs](./algorithms/24.Swap Nodes in Pairs.md)
 25. [Reverse Nodes in k-Group](./algorithms/25.Reverse Nodes in k-Group.md)
+26. [Remove Duplicates from Sorted Array](./algorithms/26.Remove Duplicates from Sorted Array.md)
+27. [Remove Element](./algorithms/27.Remove Element.md)
+28. [Implement strStr()](./algorithms/28.Implement strStr.md)
+29. [Divide Two Integers](./algorithms/29.Divide Two Integers.md)
