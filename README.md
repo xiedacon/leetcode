@@ -29,3 +29,9 @@
 27. [Remove Element](./algorithms/27.Remove Element.md)
 28. [Implement strStr()](./algorithms/28.Implement strStr.md)
 29. [Divide Two Integers](./algorithms/29.Divide Two Integers.md)
+30. Substring with Concatenation of All Words
+31. [Next Permutation](./algorithms/31.Next Permutation.md)
+32. [Longest Valid Parentheses](./algorithms/32.Longest Valid Parentheses.md)
+33. [Search in Rotated Sorted Array](./algorithms/33.Search in Rotated Sorted Array.md)
+34. [Search for a Range](./algorithms/34.Search for a Range.md)
+35. [Search Insert Position](./algorithms/35.Search Insert Position.md)
