@@ -35,3 +35,10 @@
 33. [Search in Rotated Sorted Array](./algorithms/33.Search in Rotated Sorted Array.md)
 34. [Search for a Range](./algorithms/34.Search for a Range.md)
 35. [Search Insert Position](./algorithms/35.Search Insert Position.md)
+36. [Valid Sudoku](./algorithms/36.Valid Sudoku.md)
+37. [Sudoku Solver](./algorithms/37.Sudoku Solver.md)
+38. Count and Say
+39. [Combination Sum](./algorithms/39.Combination Sum.md)
+40. [Combination Sum II](./algorithms/40.Combination Sum II.md)
+41. [First Missing Positive](./algorithms/41.First Missing Positive.md)
+42. [Trapping Rain Water](./algorithms/42.Trapping Rain Water.md)
