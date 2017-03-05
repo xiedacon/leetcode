@@ -42,3 +42,4 @@
 40. [Combination Sum II](./algorithms/40.Combination Sum II.md)
 41. [First Missing Positive](./algorithms/41.First Missing Positive.md)
 42. [Trapping Rain Water](./algorithms/42.Trapping Rain Water.md)
+43. [Multiply Strings](./algorithms/43.Multiply Strings.md)
