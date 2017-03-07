@@ -43,3 +43,5 @@
 41. [First Missing Positive](./algorithms/41.First Missing Positive.md)
 42. [Trapping Rain Water](./algorithms/42.Trapping Rain Water.md)
 43. [Multiply Strings](./algorithms/43.Multiply Strings.md)
+44. Wildcard Matching
+45. [Jump Game II](./algorithms/45.Jump Game II.md)
