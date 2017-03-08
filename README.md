@@ -45,3 +45,8 @@
 43. [Multiply Strings](./algorithms/43.Multiply Strings.md)
 44. Wildcard Matching
 45. [Jump Game II](./algorithms/45.Jump Game II.md)
+46. [Permutations](./algorithms/46.Permutations.md)
+47. [Permutations II](./algorithms/47.Permutations II.md)
+48. [Rotate Image](./algorithms/48.Rotate Image.md)
+49. [Group Anagrams](./algorithms/49.Group Anagrams.md)
+50. [Pow(x, n)](./algorithms/50.Pow x, n .md)
