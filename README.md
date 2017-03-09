@@ -50,3 +50,11 @@
 48. [Rotate Image](./algorithms/48.Rotate Image.md)
 49. [Group Anagrams](./algorithms/49.Group Anagrams.md)
 50. [Pow(x, n)](./algorithms/50.Pow x, n .md)
+51. N-Queens
+52. N-Queens II
+53. [Maximum Subarray](./algorithms/53.Maximum Subarray.md)
+54. [Spiral Matrix](./algorithms/54.Spiral Matrix.md)
+55. [Jump Game](./algorithms/55.Jump Game.md)
+56. [Merge Intervals](./algorithms/56.Merge Intervals.md)
+57. [Insert Interval](./algorithms/57.Insert Interval.md)
+58. [Length of Last Word](./algorithms/58.Length of Last Word.md)
