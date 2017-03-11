@@ -64,3 +64,9 @@
 62. [Unique Paths](./algorithms/62.Unique Paths.md)
 63. [Unique Paths II](./algorithms/63.Unique Paths II.md)
 64. [Minimum Path Sum](./algorithms/64.Minimum Path Sum.md)
+65. Valid Number
+66. [Plus One](./algorithms/66.Plus One.md)
+67. [Add Binary](./algorithms/67.Add Binary.md)
+68. [Text Justification](./algorithms/68.Text Justification.md)
+69. [Sqrt(x)](./algorithms/69.Sqrt x .md)
+70. [Climbing Stairs](./algorithms/70.Climbing Stairs.md)
