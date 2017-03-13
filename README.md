@@ -76,3 +76,6 @@
 74. [Search a 2D Matrix](./algorithms/74.Search a 2D Matrix.md)
 75. [Sort Colors](./algorithms/75.Sort Colors.md)
 76. [Minimum Window Substring](./algorithms/76.Minimum Window Substring.md)
+77. [Combinations](./algorithms/77.Combinations.md)
+78. [Subsets](./algorithms/78.Subsets.md)
+79. [Word Search](./algorithms/79.Word Search.md)
