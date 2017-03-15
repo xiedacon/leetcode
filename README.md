@@ -79,3 +79,7 @@
 77. [Combinations](./algorithms/77.Combinations.md)
 78. [Subsets](./algorithms/78.Subsets.md)
 79. [Word Search](./algorithms/79.Word Search.md)
+80. [Remove Duplicates from Sorted Array II](./algorithms/80.Remove Duplicates from Sorted Array II.md)
+81. [Search in Rotated Sorted Array II](./algorithms/81.Search in Rotated Sorted Array II.md)
+82. [Remove Duplicates from Sorted List II](./algorithms/82.Remove Duplicates from Sorted List II.md)
+83. [Remove Duplicates from Sorted List](./algorithms/83.Remove Duplicates from Sorted List.md)
