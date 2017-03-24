@@ -112,6 +112,13 @@
 110. [Balanced Binary Tree](./algorithms/110.Balanced%20Binary%20Tree.md)
 111. [Minimum Depth of Binary Tree](./algorithms/111.Minimum%20Depth%20of%20Binary%20Tree.md)
 112. [Path Sum](./algorithms/112.Path%20Sum.md)
+113. [Path Sum II](./algorithms/113.Path%20Sum%20II.md)
+114. [Flatten Binary Tree to Linked List](./algorithms/114.Flatten%20Binary%20Tree%20to%20Linked%20List.md)
+115. [Distinct Subsequences](./algorithms/115.Distinct%20Subsequences.md)
+116. [Populating Next Right Pointers in Each Node](./algorithms/116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
+117. [Populating Next Right Pointers in Each Node II](./algorithms/117.Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)
+118. [Pascal's Triangle](./algorithms/118.Pascal's%20Triangle.md)
+119. [Pascal's Triangle II](./algorithms/119.Pascal's%20Triangle%20II.md)
 
 **目录生成脚本：**
 
@@ -134,18 +141,19 @@
 
 ```javascript
   (function(){
-  	var temp = "# " + document.querySelector("h3").textContent.trim() + "\r\n";
-  	function a(ele){
-  		((ele instanceof Text) && (temp+=(ele.data.trim().length==0)?"\r\n":ele.data))
-  		|| ((ele.matches("code")) && (temp+="``"+ele.textContent+"``"))
-  		|| ((ele.matches("pre")) && (temp+="\r\n```\r\n"+ele.textContent+"```\r\n"))
-  		|| ((ele.matches("b")) && (temp+="**"+ele.textContent+"**"))
-  		|| ((ele.matches("img")) && (temp+="\r\n!(图片名)["+ele.src+"]\r\n"))
-  		|| ele.matches("div")
-  		|| Array.from(ele.childNodes).forEach((e) => {a(e);});
-
-  	}
-  	Array.from(document.querySelector("div.question-content").childNodes).forEach((e)=>{a(e);});
-  	console.log(temp);
+    var temp = "# " + document.querySelector("h3").textContent.trim() + "\r\n";
+    function a(ele){
+      ((ele instanceof Text) && (temp+=(ele.data.trim().length==0)?"\r\n":ele.data))
+      || ((ele.matches("code")) && (temp+="``"+ele.textContent+"``"))
+      || ((ele.matches("pre")) && (temp+="\r\n```\r\n"+ele.textContent+"```\r\n"))
+      || ((ele.matches("b")) && (temp+="**"+ele.textContent+"**"))
+      || ((ele.matches("img")) && (temp+="\r\n!(图片名)["+ele.src+"]\r\n"))
+      || ((ele.matches("li")) && (temp+="* "+ele.textContent))
+      || ele.matches("div")
+      || Array.from(ele.childNodes).forEach((e) => {a(e);});
+    }
+    Array.from(document.querySelector("div.question-content").childNodes).forEach((e)=>{a(e);});
+    temp += "**Solution:**\r\n\r\n```java\r\n\r\n```"
+    console.log(temp);
   })()
 ```
